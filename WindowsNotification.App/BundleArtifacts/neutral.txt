@@ -1,0 +1,2 @@
+MainPackage=D:\Projects\Source\WindowsNotification\WindowsNotification.App\bin\AnyCPU\Debug\WindowsNotification.App_1.0.0.0_AnyCPU_Debug.msix
+SymbolPackage=D:\Projects\Source\WindowsNotification\WindowsNotification.App\obj\Debug\Symbols\WindowsNotification.App_1.0.0.0_AnyCPU_Debug.appxsym
